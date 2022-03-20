@@ -1,0 +1,197 @@
+.gradient-half-primary-body{
+  background-image: linear-gradient(150deg, #19a0ff, #2d1582);
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+.card, .main-contents {
+  box-shadow: 0 0.5rem 1.2rem rgba(189,197,209,.2)!important;
+}
+
+#searchInput {
+  border-radius: 0px;
+}
+
+.text-right {
+  text-align: right;
+  min-width: 50%;
+}
+
+.space-between {
+  display: flex;
+  justify-content: space-between;
+}
+.width-latest-block {
+  min-width: 30%;
+}
+.width-difficulty{
+  min-width: 50%;
+}
+
+
+.md-4.card {
+  padding: 12px!important;
+}
+
+.mr-2{
+  margin-right: .5rem!important;
+}
+
+.price-av{
+  width: 17px;
+}
+
+.secondary-small {
+  color: #77838f!important;
+  font-size: 65%;
+  font-weight: 400;
+}
+
+.secondary-size-1{
+  color: #77838f!important;
+  font-size: .875rem;
+}
+
+.net-overview-primary-link-txt {
+  color: #1e2022;
+  font-size: .875rem;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.net-overview-secondary-txt {
+  font-size: .71094rem;
+  color: #77838f!important;
+  text-transform: uppercase!important;
+  font-weight: 300;
+  line-height: 1.5;
+  margin-bottom: 0!important;
+}
+
+.u-sm-avatar {
+  width: 1.625rem;
+  height: 1.625rem;
+}
+
+.md-4 {
+  margin-bottom: 20px;
+}
+.col-lg-4 {
+  padding-right: 24px!important;
+  padding-left: 24px!important;
+}
+
+.search-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.white-text {
+  color: #fff!important;
+}
+
+
+.recharts-wrapper {
+  right: 20%;
+}
+
+h5.white-text{
+  font-size: 1.01563rem;
+  font-weight: 400;
+}
+
+div.search-bar.input-group {
+  font-size: 13px;
+}
+
+
+.white-btn {
+  background-color: #ffffff!important;
+  border-color: #f3f2f2!important;
+  color: #404850!important;
+}
+
+.search-btn {
+  font-size: 13px!important;
+  background-color: #3498db!important;
+  border-color: #3498db!important;
+}
+
+
+.quick-links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+div.container-lg {
+  min-width: 960px;
+}
+
+#searchInput {
+  min-width: 700px;
+}
+
+ul.small-text{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.small-text {
+  font-size: 10.4px;
+}
+
+ul.small-text li {
+  display: block;
+  flex: 0 1 auto; 
+}
+
+li.small-text {
+  display: block;
+  flex: 0 1 auto; 
+  margin-left: 7.5px;
+}
+
+li.small-text.dt {
+    border-bottom: 1px dashed white;
+}
+
+.hash-rate {
+  position: relative;
+  min-width: 115px;
+}
+
+.recharts-cartesian-axis-tick {    
+    font-size: 11px;
+    font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+    color: #666666
+}
+
+.vertical-divider:after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    border-right: 1px solid #e7eaf3;
+    content: "";
+    z-index: 5;
+}
+
+.tether {
+  max-height: 20px;
+}
+
+.recharts-surface{
+  max-height: 110px;
+}
+
+.tether-logo {
+  max-width: 12.5px;
+  margin-bottom: 2px;
+}
+
+.mid-search-txt {
+  font-size: 13px !important;
+  border: 1px solid #e7eaf3 !important;
+}
